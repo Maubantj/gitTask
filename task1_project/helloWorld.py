@@ -1,3 +1,3 @@
 # Message printout.
-message = "Git is awesome"
+message = input("Please enter message:  ")
 print(message)
